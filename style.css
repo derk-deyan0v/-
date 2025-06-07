@@ -1,0 +1,65 @@
+.fels{
+ background-image:linear-gradient(black,);
+ width: 120px;
+ height: 230px;
+ border:5px solid rgb(255, 255, 255);
+ border-radius: 50%;
+ position: absolute;
+}
+
+.fer{
+    color:rgb(143, 10, 173);
+    margin:80px 0px 0px 60px;
+    font-size:50px;
+}
+
+body{
+    background-image: linear-gradient(to right,red,blue);
+}
+
+.fels:hover{
+    background-image: linear-gradient(red,white,black);
+    border:16px solid rgb(2, 49, 12);
+}
+
+.ter{
+    width: 300px;
+    height: 150px;
+    margin-left: 250px;
+    margin-bottom: 100px;  
+    border: 10px solid black;
+}
+
+.terg{
+   border-collapse: collapse ;
+ background-image: linear-gradient(black,blue);
+ border-radius: 10px;
+ color: white;
+ width: 100%;
+ }
+
+.tdr{
+    border: 5px solid rgb(2, 85, 37);
+    
+}
+
+.h{
+    text-align: center;
+    border: 1px solid white;
+    background-image: linear-gradient(black,blue);
+    border-radius: 15px;
+    color: white;
+}
+
+.lf{
+    background-image: linear-gradient(black,blue);
+    color: white;
+    border: 5px double white;
+    border-radius: 10px;
+    width: 100%;
+}
+
+.yrl{
+    width: 100%;
+    border: 5px solid black;
+}
